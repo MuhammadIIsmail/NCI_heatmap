@@ -14,3 +14,5 @@ The names of compounds are taken from the names of the csv files, so change the 
 The depicted figure is an output example for the script which is published in my paper (https://pubs.acs.org/doi/10.1021/acsomega.0c01829).
 
 Kindly cite it if you use the script.
+
+Enjoy it!
